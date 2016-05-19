@@ -1,0 +1,1 @@
+# rails-restful-index-action-lab-seiji-test-batch-001
